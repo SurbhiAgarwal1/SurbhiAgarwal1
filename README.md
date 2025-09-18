@@ -141,6 +141,8 @@ An enterprise-grade **Smart City Operating System** featuring a procedural 3D We
 
 ### 🤝 Connect with me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-4a70a3387)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1)
