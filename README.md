@@ -1,4 +1,3 @@
-[FINAL_README.md](https://github.com/user-attachments/files/25332094/FINAL_README.md)
 <div align="center">
 
 <!-- Epic Animated Header Wave -->
