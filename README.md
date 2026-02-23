@@ -5,7 +5,156 @@
 </div>
 
 <!-- Floating Pokemon Pets All Over -->
-<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="80" />
+<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generati<div align="center">
+
+```
+███████╗██╗   ██╗██████╗ ██████╗ ██╗  ██╗██╗
+██╔════╝██║   ██║██╔══██╗██╔══██╗██║  ██║██║
+███████╗██║   ██║██████╔╝██████╔╝███████║██║
+╚════██║██║   ██║██╔══██╗██╔══██╗██╔══██║██║
+███████║╚██████╔╝██║  ██║██████╔╝██║  ██║██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
+```
+
+### `> Backend Engineer · DevOps · Full Stack`
+
+*B.Tech Computer Science (AI/ML) · Building deployment-ready systems*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surbhi-agrawal-4a70a3387)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalsurbhi1807@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```yaml
+name: Surbhi Agarwal
+role: Full Stack Developer → Backend-focused
+domain: Backend Systems · DevOps · Data-driven Applications
+status: Open to Internships · GSoC/Outreachy Applicant
+currently_building:
+  - Deployment-ready backend APIs
+  - Kubernetes-based monitoring stacks
+  - Blockchain DApps
+approach: Architecture-first. Clean repos. Production-aware.
+```
+
+---
+
+## `$ cat tech-stack.yaml`
+
+<div align="center">
+
+### ⬡ Backend & Runtime
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### ⬡ Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⬡ DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6C37?style=flat-square&logo=circleci&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### ⬡ Observability & Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### ⬡ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### ⬡ Blockchain & Emerging
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+
+### ⬡ 3D & Design
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+### ⬡ Data & ML
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## `$ ls -la projects/`
+
+| Project | Stack | What it does |
+|--------|-------|-------------|
+| [**Jobmatchmaker-flare**](https://github.com/SurbhiAgarwal1/Jobmatchmaker-flare) | TypeScript · Blockchain | Decentralized job marketplace DApp — job posting, hiring, escrow management on-chain |
+| [**Edge-Device-Metrics-Simulated**](https://github.com/SurbhiAgarwal1/Edge-Device-Metrics-Simulated) | JavaScript · Kubernetes · Prometheus | Simulated K8s monitoring stack — generates CPU/RAM/network metrics, custom Prometheus exporter, Grafana visualization |
+| [**FLARESHIELD-X**](https://github.com/SurbhiAgarwal1/FLARESHIELD-X) | JavaScript · Solidity | Self-defending smart wallet — auto-freeze, guardian freeze, risky address blocking, time-locked unfreeze |
+| [**EcoGuardian**](https://github.com/SurbhiAgarwal1/EcoGuardian) | TypeScript | AI-powered carbon tracker |
+
+---
+
+## `$ docker stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurbhiAgarwal1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+</div>
+
+---
+
+## `$ cat architecture-principles.txt`
+
+```
+✔ API-first backend design
+✔ Containerized from day one (Docker)
+✔ Kubernetes-aware deployment structure
+✔ Observability built-in (Prometheus + Grafana)
+✔ CI/CD pipeline — not an afterthought
+✔ Clean repo structure · meaningful commits · documented APIs
+```
+
+---
+
+<div align="center">
+
+```bash
+$ curl -X GET https://github.com/SurbhiAgarwal1 \
+  -H "Looking-For: Backend · DevOps · Open Source" \
+  -H "Status: Available-for-Internship"
+```
+
+*Repos speak louder than resumes.*
+
+</div>
+[README (4).md](https://github.com/user-attachments/files/25475151/README.4.md)
+on-v/black-white/animated/448.gif" width="80" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&width=800&lines=Open+Source+Contributor;Frontend+%2B+Python+Developer;System+Builder+%7C+Clean+Code+Advocate;Discipline+%3E+Motivation" />
 
