@@ -1,242 +1,107 @@
-[README (12).md](https://github.com/user-attachments/files/25479032/README.12.md)
-<div align="center">
+[README (13).md](https://github.com/user-attachments/files/25749082/README.13.md)
+<h1 align="center">
+  Hey there, I'm Surbhi Agarwal 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,60:3d2b00,100:FFD700&height=170&section=header&text=Surbhi%20Agarwal&fontSize=52&fontColor=1a0f00&fontAlignY=45&desc=Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20Full%20Stack%20Engineer&descSize=16&descColor=3d2b00&descAlignY=67&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=680&height=35&lines=Kubernetes+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+Prometheus+%2B+Grafana;Solidity+%E2%80%A2+Web3+%E2%80%A2+REST+APIs+%E2%80%A2+Data+Science;B.Tech+CS+(AI%2FML)+%E2%80%A2+Game+Dev+%E2%80%A2+Open+to+Internships"/>
-
-<br/>
-
-<a href="https://linkedin.com/in/surbhi-agrawal-4a70a3387">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:agarwalsurbhi1807@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/SurbhiAgarwal1">
-  <img src="https://img.shields.io/badge/GitHub-1a0f00?style=for-the-badge&logo=github&logoColor=FFD700"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20to-Internships-FFD700?style=flat-square&labelColor=3d2b00"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Target-GSoC%20%7C%20Outreachy-f5c518?style=flat-square&labelColor=3d2b00"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SurbhiAgarwal1&style=flat-square&color=3d2b00&label=Profile+Views"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%94%A5;Pokémon+Type+Engineer+%E2%9A%A1;Building+cool+things+one+commit+at+a+time!" alt="Typing SVG" />
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## 🧑‍💻 About Me
 
-```typescript
-const surbhi = {
-  degree  : "B.Tech CS — AI/ML",
-  role    : "Backend · DevOps · Full Stack",
-  building: [
-    "Production-ready REST APIs",
-    "Kubernetes monitoring pipelines",
-    "Blockchain DApps — Solidity",
-    "Data science & ML projects",
-    "Game development — Unity & Blender",
-  ],
-  principle : "Architecture first. Ship clean.",
-  status    : "Open to internships ⚡",
-};
-```
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="130"/>
-<br/>
-<sub><b>Pokédex #025 — Pikachu</b></sub>
-<br/>
-<sub><i>Electric Type · Always charging ⚡</i></sub>
-
-</td>
-</tr>
-</table>
+- 🎓 Passionate developer who loves turning ideas into reality
+- 🌱 Always learning, always growing
+- 🎮 Pokémon enthusiast — I organize my tech stack by Pokémon types!
+- 💡 Believer in clean code, good documentation, and great UX
+- 📫 Reach me at: **github.com/SurbhiAgarwal1**
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack — Pokémon Type Edition
 
-<div align="center">
+> *Every technology has its type. Here's mine.*
 
-<img src="https://img.shields.io/badge/⚡%20Languages-Electric%20Type-F7D02C?style=for-the-badge&labelColor=2C2C54"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,solidity,cpp&theme=dark"/>
+### 🔥 Fire Type — Passionate & Powerful (Frontend)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/><br/>
+### 💧 Water Type — Fluid & Adaptable (Backend)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://img.shields.io/badge/🔥%20Frontend-Fire%20Type-EE8130?style=for-the-badge&labelColor=4A1000"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap&theme=dark"/>
+### 🌿 Grass Type — Grounded & Sustainable (Database)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/><br/>
+### ⚡ Electric Type — Fast & Energetic (DevOps & Tools)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<img src="https://img.shields.io/badge/💧%20Backend%20%26%20APIs-Water%20Type-6390F0?style=for-the-badge&labelColor=001A4A"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,redis,nginx,postman&theme=dark"/>
+### 🧠 Psychic Type — Intelligent & Insightful (AI/ML)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🌿%20Databases-Grass%20Type-7AC74C?style=for-the-badge&labelColor=0A2A00"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🛡️%20DevOps%20%26%20Infrastructure-Steel%20Type-B7B7CE?style=for-the-badge&labelColor=1A1A2E"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,linux,helm&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🔮%20Monitoring-Psychic%20Type-F95587?style=for-the-badge&labelColor=3A0020"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🧬%20AI%20%2F%20ML%20%26%20Data%20Science-Dragon%20Type-6F35FC?style=for-the-badge&labelColor=1A003A"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,jupyter,anaconda&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🎮%20Game%20Dev%20%26%20Design-Fairy%20Type-D685AD?style=for-the-badge&labelColor=3A0030"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=unity,blender,figma&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🔧%20Tools-Normal%20Type-A8A77A?style=for-the-badge&labelColor=2A2A00"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,vercel&theme=dark"/>
-
-</div>
+### 🌑 Dark Type — Mysterious & Powerful (Cloud & Security)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## Projects
+## 🏆 Projects
 
-<div align="center">
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔥 **Project Charizard** | A high-performance web app | React, Node.js, MongoDB |
+| 💧 **Project Vaporeon** | Fluid data streaming platform | Python, WebSockets, PostgreSQL |
+| ⚡ **Project Raichu** | Real-time dashboard & analytics | TypeScript, D3.js, Express |
 
-<a href="https://github.com/SurbhiAgarwal1/Edge-Device-Metrics-Simulated">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurbhiAgarwal1&repo=Edge-Device-Metrics-Simulated&hide_border=false&border_color=FFD700&bg_color=1a0f00&title_color=FFD700&icon_color=f5c518&text_color=ccd6f6&theme=dark" width="46%"/>
-</a>&nbsp;
-<a href="https://github.com/SurbhiAgarwal1/Jobmatchmaker-flare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurbhiAgarwal1&repo=Jobmatchmaker-flare&hide_border=false&border_color=FFD700&bg_color=1a0f00&title_color=FFD700&icon_color=f5c518&text_color=ccd6f6&theme=dark" width="46%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SurbhiAgarwal1/FLARESHIELD-X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurbhiAgarwal1&repo=FLARESHIELD-X&hide_border=false&border_color=FFD700&bg_color=1a0f00&title_color=FFD700&icon_color=f5c518&text_color=ccd6f6&theme=dark" width="46%"/>
-</a>&nbsp;
-<a href="https://github.com/SurbhiAgarwal1/nine-cells">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurbhiAgarwal1&repo=nine-cells&hide_border=false&border_color=FFD700&bg_color=1a0f00&title_color=FFD700&icon_color=f5c518&text_color=ccd6f6&theme=dark" width="46%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SurbhiAgarwal1/EcoGuardian">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurbhiAgarwal1&repo=EcoGuardian&hide_border=false&border_color=FFD700&bg_color=1a0f00&title_color=FFD700&icon_color=f5c518&text_color=ccd6f6&theme=dark" width="46%"/>
-</a>
-
-</div>
+> 📌 *Check out my pinned repos for more!*
 
 ---
 
-## Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SurbhiAgarwal1&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurbhiAgarwal1&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SurbhiAgarwal1&show_icons=true&hide_border=false&border_color=FFD700&bg_color=1a0f00&title_color=FFD700&icon_color=f5c518&text_color=ccd6f6&ring_color=FFD700&include_all_commits=true&count_private=true" width="47%" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=donut&hide_border=false&border_color=FFD700&bg_color=1a0f00&title_color=FFD700&text_color=ccd6f6&count_private=true&langs_count=7" width="30%" height="175"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=SurbhiAgarwal1&hide_border=false&border=FFD700&background=1a0f00&ring=FFD700&fire=f5c518&currStreakLabel=FFD700&sideLabels=ccd6f6&dates=8b949e&sideNums=FFD700&currStreakNum=FFD700" width="55%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurbhiAgarwal1&bg_color=1a0f00&color=FFD700&line=f5c518&point=FFD700&area_color=3d2b00&area=true&hide_border=false&border_color=FFD700&custom_title=Contribution+Timeline" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## Trophies
+## 🌐 Connect With Me
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=flat&no-frame=false&margin-w=10&column=4"/>
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurbhiAgarwal1/SurbhiAgarwal1/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurbhiAgarwal1/SurbhiAgarwal1/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SurbhiAgarwal1/SurbhiAgarwal1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
+<p align="center">
+  <a href="https://github.com/SurbhiAgarwal1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/surbhiagarwal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SurbhiAgarwal1&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,60:3d2b00,100:1a0f00&height=110&section=footer&animation=fadeIn"/>
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"/>&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"/>&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png"/>&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"/>&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png"/>
-
-<br/><br/>
-
-*Repos speak louder than resumes.*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SurbhiAgarwal1&style=flat-square&color=3d2b00&label=Profile+Views"/>
-
-</div>
-
-<!--
-SNAKE SETUP: create .github/workflows/snake.yml
-────────────────────────────────────────────────
-name: Snake Animation
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SurbhiAgarwal1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Run it once manually from Actions tab.
--->
+<p align="center">
+  <i>"Gotta code 'em all!"</i> 🎮
+</p>
