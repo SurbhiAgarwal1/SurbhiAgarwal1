@@ -1,4 +1,4 @@
-[README (16).md](https://github.com/user-attachments/files/25765807/README.16.md)
+(https://github.com/user-attachments/files/25765807/README.16.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Surbhi%20Agarwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20(AI%2FML)%20Undergraduate%20%7C%20Curiosity-Driven%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -129,20 +129,10 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 ---
 
-## 🏆 Projects
 
-| # | Project | Description | Stack |
-|:-:|:-------:|:-----------:|:-----:|
-| 🔥 | **Project Charizard** | High-performance web app with real-time data processing | React · Node.js · MongoDB |
-| 💧 | **Project Vaporeon** | Fluid data streaming platform built for scale | Python · WebSockets · PostgreSQL |
-| ⚡ | **Project Raichu** | Real-time analytics dashboard with live visualizations | TypeScript · D3.js · Express |
-| 🧠 | **ML Codebase Explorer** | Navigate unfamiliar codebases using static analysis + LLMs | Python · FastAPI · PyTorch |
 
 ---
 
-## 📊 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurbhiAgarwal1&bg_color=0D1117&color=7EE8A2&line=38BDF8&point=F9A8D4&area=true&hide_border=true" width="95%"/>
 
 <br/>
 
