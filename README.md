@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/25765807/README.16.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Surbhi%20Agarwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20(AI%2FML)%20Undergraduate%20%7C%20Curiosity-Driven%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -127,15 +127,6 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <br/>
 
----
-
-
-
----
-
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&text_color=ffffff" width="42%"/>
 
 ---
@@ -144,10 +135,6 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <br/>
 
-<a href="https://github.com/SurbhiAgarwal1" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-SurbhiAgarwal1-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/surbhi-agrawal-4a70a3387/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Surbhi%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
