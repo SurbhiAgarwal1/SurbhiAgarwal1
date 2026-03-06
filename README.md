@@ -149,7 +149,7 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <br/><br/>
 
-> *"The work behind a repository often speaks more clearly than any introduction."*
+> *A repository often speaks more clearly than any introduction."*
 
 <br/>
 
