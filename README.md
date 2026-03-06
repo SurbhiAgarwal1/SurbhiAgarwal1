@@ -1,11 +1,11 @@
-[README (17).md](https://github.com/user-attachments/files/25785730/README.17.md)
+[README (18).md](https://github.com/user-attachments/files/25785870/README.18.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Surbhi%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20(AI%2FML)%20Undergraduate%20%7C%20Curiosity-Driven%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=7EE8A2&center=true&vCenter=true&width=680&lines=🔍+Exploring+how+real+software+systems+are+built...;🧩+Breaking+things+down+to+truly+understand+them...;🌱+Learning+by+doing+—+always+on+real+projects...;⚙️+Improving+systems%2C+one+thoughtful+commit+at+a+time...;🤖+Chasing+curiosity+across+AI%2C+ML+%26+Backend...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=7EE8A2&center=true&vCenter=true&width=680&lines=🔍+Exploring+how+real+software+systems+are+built...;🧩+Breaking+things+down+to+truly+understand+them...;🌱+Always+learning+on+real+projects...;⚙️+Improving+systems%2C+one+thoughtful+commit+at+a+time...;🤖+Chasing+curiosity+across+AI%2C+ML+%26+Backend...;💡+Turning+understanding+into+thoughtful+improvements...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,14 +27,25 @@ I'm drawn to **emerging technologies**, real-world problems, and projects that c
 
 I appreciate well-designed systems, clear thinking, and the quiet satisfaction of making something work a little better than before.
 
-> 💬 *I strongly believe the work behind a repository speaks more clearly than any introduction.*
+<br/>
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║  💬  "I strongly believe the work behind a repository speaks      ║
+║       more clearly than any introduction."                         ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <br/>
 
 <div align="center">
 
-| 🎓 Degree | 📍 Location | 🔭 Exploring | 🌱 Currently Into |
-|:---------:|:-----------:|:------------:|:-----------------:|
+| 🎓 Degree | 📍 Location | 🔭 Focus | 🌱 Currently Exploring |
+|:---------:|:-----------:|:--------:|:---------------------:|
 | CS (AI/ML) Undergrad | India | AI · Systems · Backend | LLMs · MLOps · System Design |
 
 </div>
@@ -43,23 +54,20 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <div align="center">
 
-## 🏅 Badges
+## 🏆 GitHub Achievements & Trophies
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ML](https://img.shields.io/badge/Machine%20Learning-Passionate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Comfortable-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Proficient-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" width="94%"/>
 
-<br/>
+<br/><br/>
 
-![Problem Solver](https://img.shields.io/badge/🧠-Problem%20Solver-a78bfa?style=flat-square)
-![Fast Learner](https://img.shields.io/badge/⚡-Fast%20Learner-f9a825?style=flat-square)
-![Detail Oriented](https://img.shields.io/badge/🔍-Detail%20Oriented-f9a8d4?style=flat-square)
-![Systems Thinker](https://img.shields.io/badge/⚙️-Systems%20Thinker-38bdf8?style=flat-square)
-![Open Source Lover](https://img.shields.io/badge/🌍-Open%20Source%20Lover-7EE8A2?style=flat-square)
+[![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Achievement-388bfd?style=for-the-badge&labelColor=1f6feb)](https://github.com/SurbhiAgarwal1)
+[![Quickdraw](https://img.shields.io/badge/⚡%20Quickdraw-Achievement-e3b341?style=for-the-badge&labelColor=bf8700)](https://github.com/SurbhiAgarwal1)
+[![YOLO](https://img.shields.io/badge/🎯%20YOLO-Achievement-a371f7?style=for-the-badge&labelColor=6e40c9)](https://github.com/SurbhiAgarwal1)
+[![Starstruck](https://img.shields.io/badge/🌟%20Starstruck-Achievement-f0e68c?style=for-the-badge&labelColor=9e6a03)](https://github.com/SurbhiAgarwal1)
+[![Galaxy Brain](https://img.shields.io/badge/🧠%20Galaxy%20Brain-Achievement-a371f7?style=for-the-badge&labelColor=6e40c9)](https://github.com/SurbhiAgarwal1)
+[![Arctic Vault](https://img.shields.io/badge/🧊%20Arctic%20Code%20Vault-Contributor-1f6feb?style=for-the-badge&labelColor=0550ae)](https://github.com/SurbhiAgarwal1)
 
 </div>
 
@@ -78,14 +86,6 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&text_color=ffffff&langs_count=8" height="145"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SurbhiAgarwal1&bg_color=0D1117&color=7EE8A2&line=7EE8A2&point=ffffff&area=true&area_color=1a2a1a&hide_border=true" width="92%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" width="92%"/>
 
 </div>
 
@@ -195,20 +195,90 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
 
 <br/>
 
-| &nbsp; | Project | Description | Stack | Status |
-|:------:|:-------:|:-----------:|:-----:|:------:|
-| 🔥 | **Project Charizard** | High-performance web app with real-time data processing | React · Node.js · MongoDB | `Active` |
-| 💧 | **Project Vaporeon** | Scalable data streaming platform with live event pipelines | Python · WebSockets · PostgreSQL | `Active` |
-| ⚡ | **Project Raichu** | Real-time analytics dashboard with interactive visualizations | TypeScript · D3.js · Express | `In Progress` |
-| 🧠 | **ML Codebase Explorer** | Navigate unfamiliar codebases using static analysis + LLMs | Python · FastAPI · PyTorch | `In Progress` |
+---
+
+### 🌐 NetEdu &nbsp;—&nbsp; Network-Aware Learning Platform
+
+> A full-stack platform that measures real internet quality and connects it with learning outcomes — because most edtech apps simply ignore network conditions.
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+&nbsp;&nbsp;
+**56.2% TS &nbsp;·&nbsp; 38.8% Python &nbsp;·&nbsp; 4.2% CSS**
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  Stack  →  React 18 · TypeScript · Django 5 · DRF · PostgreSQL      │
+│            Docker · Nginx · Pandas · NumPy · Pytest · Vitest         │
+│  Live   →  https://net-edu.vercel.app                                │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**What makes it real:**
+
+- 📶 Students run actual speed tests — download, upload, latency, jitter, packet loss
+- 📊 Analytics engine correlates network quality with learning performance using Pandas
+- 🏆 Live leaderboard computed from real activity — lessons, streaks, quiz scores, rank percentile
+- 🔐 JWT auth with role-based access — student, teacher, admin
+- 📚 Offline learning support, course progress tracking, AI helper component
+- 🎨 Theme toggle, onboarding tour, toast notifications, skeleton loading states
+
+[![View Repo](https://img.shields.io/badge/📁%20View%20Repository-NetEdu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1/NetEdu)
+[![Live Demo](https://img.shields.io/badge/🌍%20Live%20Demo-net--edu.vercel.app-7EE8A2?style=for-the-badge)](https://net-edu.vercel.app)
+
+<br/>
 
 ---
+
+### 📡 Edge Device Metrics Simulated &nbsp;—&nbsp; Kubernetes Monitoring Stack
+
+> A complete simulated Kubernetes-based monitoring stack that generates CPU, RAM, temperature, and network metrics for edge devices, exposes them via a Prometheus-compatible exporter, and visualizes real-time insights using Grafana.
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+&nbsp;&nbsp;
+**37% JS &nbsp;·&nbsp; 21.8% Python &nbsp;·&nbsp; 20.7% CSS &nbsp;·&nbsp; 19.4% HTML**
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  Stack  →  Python · Flask · Prometheus · Grafana · Docker            │
+│            Kubernetes · Chart.js · HTML · CSS · JavaScript           │
+│  Live   →  https://edge-device-metrics-simulated-2.onrender.com      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**What makes it real:**
+
+- 🖥️ Simulates real edge device metrics — CPU, RAM, temperature, network sent/received
+- 📈 Prometheus-compatible exporter with labeled metrics per device type & ID
+- 📊 Grafana dashboard pre-configured via `grafana-dashboard.json`
+- 🚨 Alert rules for high CPU usage (>80% for 1 min) via Prometheus alerting
+- ☸️ Full Kubernetes deployment — namespace, configmaps, deployments, services
+- 📤 CSV data export, auto-refresh every 4 seconds, live Chart.js visualizations
+- 🌐 Anomaly detection flag exposed as a Prometheus metric
+
+[![View Repo](https://img.shields.io/badge/📁%20View%20Repository-Edge--Device--Metrics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1/Edge-Device-Metrics-Simulated-)
+[![Live Demo](https://img.shields.io/badge/🌍%20Live%20Demo-onrender.com-38bdf8?style=for-the-badge)](https://edge-device-metrics-simulated-2.onrender.com)
+
+---
+
+<div align="center">
 
 ## 🤝 Connect With Me
 
