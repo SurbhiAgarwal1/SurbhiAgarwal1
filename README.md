@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/25785870/README.18.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Surbhi%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20(AI%2FML)%20Undergraduate%20%7C%20Curiosity-Driven%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
@@ -43,18 +43,19 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" width="94%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/><br/>
 
-[![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Achievement-388bfd?style=for-the-badge&labelColor=1f6feb)](https://github.com/SurbhiAgarwal1)
-[![Quickdraw](https://img.shields.io/badge/⚡%20Quickdraw-Achievement-e3b341?style=for-the-badge&labelColor=bf8700)](https://github.com/SurbhiAgarwal1)
-[![YOLO](https://img.shields.io/badge/🎯%20YOLO-Achievement-a371f7?style=for-the-badge&labelColor=6e40c9)](https://github.com/SurbhiAgarwal1)
-[![Starstruck](https://img.shields.io/badge/🌟%20Starstruck-Achievement-f0e68c?style=for-the-badge&labelColor=9e6a03)](https://github.com/SurbhiAgarwal1)
-[![Galaxy Brain](https://img.shields.io/badge/🧠%20Galaxy%20Brain-Achievement-a371f7?style=for-the-badge&labelColor=6e40c9)](https://github.com/SurbhiAgarwal1)
-[![Arctic Vault](https://img.shields.io/badge/🧊%20Arctic%20Code%20Vault-Contributor-1f6feb?style=for-the-badge&labelColor=0550ae)](https://github.com/SurbhiAgarwal1)
+![Pull Shark](https://img.shields.io/static/v1?label=🦈&message=Pull+Shark&color=388bfd&style=for-the-badge&labelColor=1f6feb)
+![Quickdraw](https://img.shields.io/static/v1?label=⚡&message=Quickdraw&color=e3b341&style=for-the-badge&labelColor=bf8700)
+![YOLO](https://img.shields.io/static/v1?label=🎯&message=YOLO&color=a371f7&style=for-the-badge&labelColor=6e40c9)
+![Starstruck](https://img.shields.io/static/v1?label=🌟&message=Starstruck&color=e3b341&style=for-the-badge&labelColor=9e6a03)
 
-</div>
+<br/>
+
+![Galaxy Brain](https://img.shields.io/static/v1?label=🧠&message=Galaxy+Brain&color=a371f7&style=for-the-badge&labelColor=6e40c9)
+![Arctic Code Vault](https://img.shields.io/static/v1?label=🧊&message=Arctic+Code+Vault+Contributor&color=388bfd&style=for-the-badge&labelColor=0550ae)
 
 ---
 
