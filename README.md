@@ -179,11 +179,8 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 </div>
 
----
 
 ## 🚀 Featured Projects
-
-<br/>
 
 ---
 
@@ -197,7 +194,6 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 &nbsp;&nbsp;
-**56.2% TS &nbsp;·&nbsp; 38.8% Python &nbsp;·&nbsp; 4.2% CSS**
 
 <br/>
 
@@ -237,7 +233,6 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Dockerfile](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 &nbsp;&nbsp;
-**37% JS &nbsp;·&nbsp; 21.8% Python &nbsp;·&nbsp; 20.7% CSS &nbsp;·&nbsp; 19.4% HTML**
 
 <br/>
 
