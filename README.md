@@ -39,26 +39,6 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <div align="center">
 
-## 🏆 GitHub Achievements & Trophies
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/><br/>
-
-![Pull Shark](https://img.shields.io/static/v1?label=🦈&message=Pull+Shark&color=388bfd&style=for-the-badge&labelColor=1f6feb)
-![Quickdraw](https://img.shields.io/static/v1?label=⚡&message=Quickdraw&color=e3b341&style=for-the-badge&labelColor=bf8700)
-![YOLO](https://img.shields.io/static/v1?label=🎯&message=YOLO&color=a371f7&style=for-the-badge&labelColor=6e40c9)
-![Starstruck](https://img.shields.io/static/v1?label=🌟&message=Starstruck&color=e3b341&style=for-the-badge&labelColor=9e6a03)
-
-<br/>
-
-![Galaxy Brain](https://img.shields.io/static/v1?label=🧠&message=Galaxy+Brain&color=a371f7&style=for-the-badge&labelColor=6e40c9)
-![Arctic Code Vault](https://img.shields.io/static/v1?label=🧊&message=Arctic+Code+Vault+Contributor&color=388bfd&style=for-the-badge&labelColor=0550ae)
-
----
-
 <div align="center">
 
 ## 📊 GitHub Statistics
