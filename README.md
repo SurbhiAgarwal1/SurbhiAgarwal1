@@ -1,4 +1,4 @@
-[README (18).md](https://github.com/user-attachments/files/25785870/README.18.md)
+(https://github.com/user-attachments/files/25785870/README.18.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Surbhi%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20(AI%2FML)%20Undergraduate%20%7C%20Curiosity-Driven%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
@@ -29,24 +29,9 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <br/>
 
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  💬  "I strongly believe the work behind a repository speaks      ║
-║       more clearly than any introduction."                         ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <br/>
-
-<div align="center">
-
-| 🎓 Degree | 📍 Location | 🔭 Focus | 🌱 Currently Exploring |
-|:---------:|:-----------:|:--------:|:---------------------:|
-| CS (AI/ML) Undergrad | India | AI · Systems · Backend | LLMs · MLOps · System Design |
 
 </div>
 
@@ -304,13 +289,13 @@ I appreciate well-designed systems, clear thinking, and the quiet satisfaction o
 
 <img src="https://komarev.com/ghpvc/?username=SurbhiAgarwal1&color=7EE8A2&style=flat-square&label=Profile+Views" />
 
+<!-- <br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="65%"/> -->
+
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="65%"/>
-
-<br/><br/>
-
-> *"I strongly believe the work behind a repository speaks more clearly than any introduction."*
+ *"I strongly believe the work behind a repository speaks more clearly than any introduction."*
 
 <br/>
 
