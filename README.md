@@ -164,43 +164,6 @@ When something breaks — edge device metrics, a blockchain escrow contract, a m
 
 ---
 
-## philosophy
 
-> Competence is knowing how to fix it.
-> Understanding is knowing why it was ever going to break.
 
----
-
-Surbhi Agarwal
-CS · AI/ML · systems thinker · backend-first · permanently exploring
-Most bugs are not code problems. They're reasoning problems — places where the mental model diverged from the actual system, silently, long before the error surfaced. I find those gaps interesting. Not because fixing them is satisfying, but because they reveal something true about how the system actually works versus how it was assumed to work.
-pokémon-type classification · tech stack
-🔥 fire — core languages
-The ones I think in.
-
-💧 water — frontend & interaction
-How systems speak to humans.
-
-🧊 ice — 3D & design
-Space as a reasoning environment.
-
-🌿 grass — data & backend
-Where reasoning meets scale.
-
-⚡ electric — infrastructure & tools
-The layer most people don't read.
-
-🔮 psychic — AI & ML
-Not just models. Reasoning about models.
-
-🪨 rock — blockchain & web3
-Trust without a middleman.
-
-what I actually do
-Simulate systems before writing them.
-Question whether the abstraction chosen is the right one.
-Read error messages as symptoms, not answers.
-Build things in new domains to stress-test what I think I know.
-Competence is knowing how to fix it.
-Understanding is knowing why it was ever going to break.
 
