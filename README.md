@@ -1,83 +1,136 @@
-<div align="center">
+# Surbhi Agarwal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Surbhi%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20(AI%2FML)%20Undergraduate%20%7C%20Systems%20%26%20Backend%20Focused&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+Most bugs are not code problems. They're reasoning problems — places where the mental model of the system diverged from the actual system, silently, long before the error surfaced. I find those gaps interesting. Not because fixing them is satisfying, but because they reveal something true about how the system actually works versus how it was assumed to work.
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=7EE8A2&center=true&vCenter=true&width=720&lines=Exploring+how+real+software+systems+are+built...;Understanding+codebases+deeply%2C+not+superficially...;Breaking+down+problems+into+working+systems...;Curiosity-driven+developer+with+a+backend+mindset...;Focused+on+AI%2C+ML%2C+systems+and+real-world+engineering...)](https://git.io/typing-svg)
-
-<br/>
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7EE8A2?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%2F%20Systems%20%2F%20AI%2FML-a78bfa?style=flat-square)
-![Status](https://img.shields.io/badge/Currently-Building%20Real%20Projects-38bdf8?style=flat-square)
-
-</div>
+That distinction — between the system you think you built and the system that exists — is what I keep returning to.
 
 ---
 
-## 👋 About Me
-
-I'm **Surbhi Agarwal**, a CS (AI/ML) undergraduate who likes understanding how real-world software systems are designed, built, and improved.
-
-I enjoy stepping into unfamiliar codebases, figuring out how things actually work, and making thoughtful improvements instead of surface-level changes. I'm especially interested in backend systems, AI/ML, infrastructure, monitoring, and projects that solve practical problems.
+## pokémon-type classification · tech stack
 
 ---
 
-## 🧠 What I Work With
+### 🔥 fire — core languages
+*The ones I think in.*
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,sql,html,css,bash&theme=dark" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,django&theme=dark" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" />
-</p>
-
-### DevOps, Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,gcp,aws,vercel,vscode&theme=dark" />
-</p>
-
-### Monitoring & AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,tensorflow,pytorch,sklearn&theme=dark" />
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-343434?style=flat&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 💧 water — frontend & interaction
+*How systems speak to humans.*
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SurbhiAgarwal1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&icon_color=38BDF8&text_color=ffffff&include_all_commits=true&count_private=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SurbhiAgarwal1&theme=tokyonight&hide_border=true&background=0D1117&ring=7EE8A2&fire=f9a8d4&currStreakLabel=38BDF8" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&text_color=ffffff" height="160" />
-
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🧊 ice — 3D & game dev
+*Space as a reasoning environment.*
 
-### 🌐 NetEdu — Network-Aware Learning Platform
+![Blender](https://img.shields.io/badge/Blender-F0652A?style=flat&logo=blender&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white)
 
-A full-stack platform that measures real internet quality and connects it with learning outcomes.
+---
 
-```text
-Stack → React · TypeScript · Django · PostgreSQL · Docker
-Live  → https://net-edu.vercel.app
+### 🌿 grass — data & backend
+*Where reasoning meets scale.*
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+---
+
+### ⚡ electric — infrastructure & tools
+*The layer most people don't read.*
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🔮 psychic — AI & ML
+*Not just models. Reasoning about models.*
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+### 🪨 rock — blockchain & web3
+*Trust without a middleman.*
+
+![Solidity](https://img.shields.io/badge/Solidity-343434?style=flat&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat&logo=metamask&logoColor=white)
+![Flare](https://img.shields.io/badge/Flare_Network-E62058?style=flat&logoColor=white)
+
+---
+
+## what I actually do
+
+Simulate systems before writing them.  
+Question whether the abstraction chosen is the right one.  
+Read error messages as symptoms, not answers.  
+Build things in new domains to stress-test what I think I know.
+
+When something breaks — edge device metrics, a blockchain escrow contract, a monitoring stack — I'm less interested in the patch than in *why the assumption failed*. The assumption is the more important artifact.
+
+---
+
+## domains under investigation
+
+- On-chain logic and the trust models embedded in smart contract design
+- Edge compute: where infrastructure meets physical constraint
+- 3D space as a reasoning environment, not just a visual one
+- ML systems that behave unexpectedly at boundary conditions
+
+---
+
+## philosophy
+
+> Competence is knowing how to fix it.  
+> Understanding is knowing why it was ever going to break.
+
+---
+
+`CS · AI/ML · systems thinker · backend-first · permanently exploring`
