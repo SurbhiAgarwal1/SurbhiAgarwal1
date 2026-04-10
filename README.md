@@ -134,36 +134,3 @@ When something breaks — edge device metrics, a blockchain escrow contract, a m
 > Competence is knowing how to fix it.  
 > Understanding is knowing why it was ever going to break.
 
----
-# Surbhi Agarwal
-
-Most bugs are not code problems. They're reasoning problems — places where the mental model of the system diverged from the actual system, silently, long before the error surfaced. I find those gaps interesting. Not because fixing them is satisfying, but because they reveal something true about how the system actually works versus how it was assumed to work.
-
-That distinction — between the system you think you built and the system that exists — is what I keep returning to.
-
----
-
-
-## what I actually do
-
-Simulate systems before writing them.
-Question whether the abstraction chosen is the right one.
-Read error messages as symptoms, not answers.
-Build things in new domains to stress-test what I think I know.
-
-When something breaks — edge device metrics, a blockchain escrow contract, a monitoring stack — I'm less interested in the patch than in *why the assumption failed*. The assumption is the more important artifact.
-
----
-
-## domains under investigation
-
-- On-chain logic and the trust models embedded in smart contract design
-- Edge compute: where infrastructure meets physical constraint
-- 3D space as a reasoning environment, not just a visual one
-- ML systems that behave unexpectedly at boundary conditions
-
----
-
-
-
-
