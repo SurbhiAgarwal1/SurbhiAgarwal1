@@ -40,22 +40,6 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <div align="center">
 
-## ⚔️ trainer identity
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=EC4899&center=true&vCenter=true&width=600&lines=four+brains+%2B+one+vision+%3D+unstoppable;created+in+a+lab%2C+thinks+beyond+it;Steel+%2F+Psychic+%7C+Pure+Psychic;calculates+everything%2C+assumes+nothing" />
-
-<br/>
-
-| | Pokémon | Type | Signature |
-|:---:|:---:|:---:|:---:|
-| 🥇 | **Metagross** | Steel · Psychic | Four supercomputers fused into one mind |
-| 🥈 | **Mewtwo** | Psychic | Created in a lab. Questions everything. |
-
-<br/>
-
-> *Metagross never makes a move without calculating every outcome.*
-> *Mewtwo never accepts an assumption it didn't verify itself.*
-> **That's the build.**
 
 </div>
 
