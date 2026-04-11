@@ -14,11 +14,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SurbhiAgarwal1&style=flat-square&color=A855F7&label=profile+views)
+[![Gmail](https://img.shields.io/badge/agarwalsurbhi1807@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalsurbhi1807@gmail.com)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/SurbhiAgarwal1?style=flat-square&color=6C63FF&labelColor=0d1117&label=followers)](https://github.com/SurbhiAgarwal1)
+[![LinkedIn](https://img.shields.io/badge/Surbhi%20Agrawal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-4a70a3387)
 &nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/SurbhiAgarwal1?style=flat-square&color=EC4899&labelColor=0d1117&label=total+stars)
+[![GitHub](https://img.shields.io/badge/SurbhiAgarwal1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1)
 
 </div>
 
@@ -40,6 +40,22 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <div align="center">
 
+## ⚔️ trainer identity
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=EC4899&center=true&vCenter=true&width=600&lines=four+brains+%2B+one+vision+%3D+unstoppable;created+in+a+lab%2C+thinks+beyond+it;Steel+%2F+Psychic+%7C+Pure+Psychic;calculates+everything%2C+assumes+nothing" />
+
+<br/>
+
+| | Pokémon | Type | Signature |
+|:---:|:---:|:---:|:---:|
+| 🥇 | **Metagross** | Steel · Psychic | Four supercomputers fused into one mind |
+| 🥈 | **Mewtwo** | Psychic | Created in a lab. Questions everything. |
+
+<br/>
+
+> *Metagross never makes a move without calculating every outcome.*
+> *Mewtwo never accepts an assumption it didn't verify itself.*
+> **That's the build.**
 
 </div>
 
@@ -181,36 +197,6 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <img src="https://github-readme-stats.vercel.app/api?username=SurbhiAgarwal1&show_icons=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=6C63FF&text_color=888888&rank_icon=github" height="155"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=compact&theme=transparent&hide_border=true&title_color=A855F7&text_color=888888" height="155"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-## 🔭 currently
-
-```
-thinking about   →  why systems fail at their boundaries
-reading          →  distributed systems papers
-building         →  things that shouldn't exist yet
-```
-
----
-
-<div align="center">
-
-## 💭 philosophy
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=4000&color=A855F7&center=true&vCenter=true&width=700&lines=A+system+that+cannot+explain+its+own+failure+was+never+truly+understood.;Four+brains.+One+conclusion.+Zero+assumptions.;The+most+dangerous+thing+in+engineering+is+confidence+without+proof." />
 
 </div>
 
