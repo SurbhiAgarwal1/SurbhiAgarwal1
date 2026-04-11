@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:6C63FF,50:A855F7,100:EC4899&fontColor=fff&animation=twinkling&fontAlignY=65&desc=CS%20·%20AI%2FML%20·%20Systems%20Thinker&descSize=16&descAlignY=85&descColor=cccccc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:1a1a2e,30:16213e,60:533483,100:e94560&fontColor=fff&animation=twinkling&fontAlignY=65&desc=CS%20·%20AI%2FML%20·%20Systems%20Thinker&descSize=16&descAlignY=85&descColor=b0b8d1"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=533483&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
 
 </div>
 
@@ -38,11 +38,20 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 ---
 
+<div align="center">
+
+## ⚔️ trainer identity
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=e94560&center=true&vCenter=true&width=600&lines=four+brains+%2B+one+vision+%3D+unstoppable;created+in+a+lab%2C+thinks+beyond+it;Steel+%2F+Psychic+%7C+Pure+Psychic;calculates+everything%2C+assumes+nothing" />
+
+<br/>
 
 
-## ✨Tech Stacks✨
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=choose+your+type+carefully...;every+stack+tells+a+story" />
+## ✨ Tech Stacks ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=533483&center=true&vCenter=true&width=500&lines=choose+your+type+carefully...;every+stack+tells+a+story" />
 
 </div>
 
@@ -79,7 +88,13 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=blender,figma,threejs&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=blender,threejs,unity,figma&theme=dark&perline=6" />
+
+<br/><br/>
+
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 </div>
 <br/>
@@ -167,17 +182,30 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <div align="center">
 
-## 📊 github stats
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurbhiAgarwal1&bg_color=00000000&color=A855F7&line=6C63FF&point=EC4899&area=true&hide_border=true&area_color=6C63FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SurbhiAgarwal1&show_icons=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=6C63FF&text_color=888888&rank_icon=github" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurbhiAgarwal1&layout=compact&theme=transparent&hide_border=true&title_color=A855F7&text_color=888888" height="155"/>
+## 📈 skill levels
 
 </div>
 
+```text
+Python          ████████████████████  95%
+Machine Learning████████████████░░░░  80%
+TypeScript      ███████████████░░░░░  75%
+Backend / APIs  ████████████████░░░░  80%
+Blockchain      ████████████░░░░░░░░  60%
+3D / Blender    ██████████░░░░░░░░░░  50%
+DevOps / Infra  █████████████░░░░░░░  65%
+```
+
 ---
+
+<div align="center">
+
+## 💬 random dev quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 
 <div align="center">
 
@@ -191,6 +219,6 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer&text=four+brains.+one+vision.+zero+assumptions.&fontSize=14&fontColor=ffffff&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=120&section=footer&text=four+brains.+one+vision.+zero+assumptions.&fontSize=14&fontColor=ffffff&fontAlignY=75"/>
 
 </div>
