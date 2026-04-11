@@ -229,21 +229,6 @@ An **intelligent log analysis tool** for ArduPilot-based drones and autonomous v
 
 <div align="center">
 
-## 📈 skill levels
-
-</div>
-
-```text
-Python          ████████████████████  95%
-Machine Learning████████████████░░░░  80%
-TypeScript      ███████████████░░░░░  75%
-Backend / APIs  ████████████████░░░░  80%
-Blockchain      ████████████░░░░░░░░  60%
-3D / Blender    ██████████░░░░░░░░░░  50%
-DevOps / Infra  █████████████░░░░░░░  65%
-```
-
----
 
 <div align="center">
 
