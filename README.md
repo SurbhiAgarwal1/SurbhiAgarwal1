@@ -40,12 +40,71 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <div align="center">
 
-## ⚔️ trainer identity
+## 🚀 Featured Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=e94560&center=true&vCenter=true&width=600&lines=four+brains+%2B+one+vision+%3D+unstoppable;created+in+a+lab%2C+thinks+beyond+it;Steel+%2F+Psychic+%7C+Pure+Psychic;calculates+everything%2C+assumes+nothing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=e94560&center=true&vCenter=true&width=500&lines=built+to+solve+real+problems;not+just+demos+—+systems" />
+
+</div>
 
 <br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [NetEdu](https://github.com/SurbhiAgarwal1/NetEdu)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MIT](https://img.shields.io/badge/MIT_License-green?style=flat-square&logoColor=white)
+
+A **networking education platform** built in TypeScript. Designed to make complex networking concepts accessible and interactive — connecting learners with structured, practical content.
+
+`EdTech` `Networking` `TypeScript` `MIT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚕 [Taxi-Trip-Duration-Analysis](https://github.com/SurbhiAgarwal1/Taxi-Trip-duration-analysis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-533483?style=flat-square&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-e94560?style=flat-square&logoColor=white)
+
+A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty bounds, estimates transparent price bands, and explains pricing behavior. Not just a model — a complete decision-support system with interpretability built in.
+
+`ETA Prediction` `Pricing` `XAI` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [Edge-Device-Metrics-Simulated](https://github.com/SurbhiAgarwal1/Edge-Device-Metrics-Simulated-)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+A **simulated Kubernetes monitoring stack** for edge devices. Generates realistic CPU, RAM, temperature, and network metrics via a Prometheus exporter — visualized live in Grafana. Production-grade observability, no hardware needed.
+
+`DevOps` `Observability` `Edge Computing` `K8s`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛩️ [Ardupilot-Log-Diagnosis](https://github.com/SurbhiAgarwal1/ardupilot-log-diagnosis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Drones](https://img.shields.io/badge/Drone_Systems-1a1a2e?style=flat-square&logoColor=white)
+
+An **intelligent log analysis tool** for ArduPilot-based drones and autonomous vehicles. Diagnoses flight anomalies, system faults, and behavioral patterns from raw autopilot logs — bridging low-level telemetry with high-level insights.
+
+`Drones` `Telemetry` `Log Analysis` `Python`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
 
 <div align="center">
 
@@ -75,7 +134,7 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,tailwind,html,css,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,html,css,figma&theme=dark&perline=7" />
 
 </div>
 <br/>
@@ -88,13 +147,7 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=blender,threejs,unity,figma&theme=dark&perline=6" />
-
-<br/><br/>
-
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+<img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=6" />
 
 </div>
 <br/>
@@ -144,14 +197,12 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter&theme=dark&perline=6" />
 
 <br/><br/>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 <br/>
@@ -168,11 +219,7 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <br/><br/>
 
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
 </div>
 <br/>
@@ -206,19 +253,10 @@ DevOps / Infra  █████████████░░░░░░░  65
 
 </div>
 
+---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurbhiAgarwal1/SurbhiAgarwal1/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurbhiAgarwal1/SurbhiAgarwal1/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SurbhiAgarwal1/SurbhiAgarwal1/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=120&section=footer&text=four+brains.+one+vision.+zero+assumptions.&fontSize=14&fontColor=ffffff&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=120&section=footer"/>
 
 </div>
