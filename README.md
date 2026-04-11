@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:1a1a2e,30:16213e,60:533483,100:e94560&fontColor=fff&animation=twinkling&fontAlignY=65&desc=CS%20·%20AI%2FML%20·%20Systems%20Thinker&descSize=16&descAlignY=85&descColor=b0b8d1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:0d1117,30:0d1b2a,60:0a2a5a,100:1a4a8a&fontColor=e8f4ff&animation=twinkling&fontAlignY=65&desc=CS%20·%20AI%2FML%20·%20Systems%20Thinker&descSize=16&descAlignY=85&descColor=00BFFF&stroke=4a9eff&strokeWidth=1"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=533483&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
 
 </div>
 
@@ -42,7 +42,7 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 ## 🚀 Featured Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=e94560&center=true&vCenter=true&width=500&lines=built+to+solve+real+problems;not+just+demos+—+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00BFFF&center=true&vCenter=true&width=500&lines=built+to+solve+real+problems;not+just+demos+—+systems" />
 
 </div>
 
@@ -65,8 +65,8 @@ A **networking education platform** built in TypeScript. Designed to make comple
 
 ### 🚕 [Taxi-Trip-Duration-Analysis](https://github.com/SurbhiAgarwal1/Taxi-Trip-duration-analysis)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-533483?style=flat-square&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack-e94560?style=flat-square&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-0d1b2a?style=flat-square&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-1a4a8a?style=flat-square&logoColor=white)
 
 A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty bounds, estimates transparent price bands, and explains pricing behavior. Not just a model — a complete decision-support system with interpretability built in.
 
@@ -92,7 +92,7 @@ A **simulated Kubernetes monitoring stack** for edge devices. Generates realisti
 
 ### 🛩️ [Ardupilot-Log-Diagnosis](https://github.com/SurbhiAgarwal1/ardupilot-log-diagnosis)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Drones](https://img.shields.io/badge/Drone_Systems-1a1a2e?style=flat-square&logoColor=white)
+![Drones](https://img.shields.io/badge/Drone_Systems-0d1b2a?style=flat-square&logoColor=white)
 
 An **intelligent log analysis tool** for ArduPilot-based drones and autonomous vehicles. Diagnoses flight anomalies, system faults, and behavioral patterns from raw autopilot logs — bridging low-level telemetry with high-level insights.
 
@@ -110,7 +110,7 @@ An **intelligent log analysis tool** for ArduPilot-based drones and autonomous v
 
 ## ✨ Tech Stacks ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=533483&center=true&vCenter=true&width=500&lines=choose+your+type+carefully...;every+stack+tells+a+story" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=4a9eff&center=true&vCenter=true&width=500&lines=choose+your+type+carefully...;every+stack+tells+a+story" />
 
 </div>
 
@@ -229,19 +229,3 @@ An **intelligent log analysis tool** for ArduPilot-based drones and autonomous v
 
 <div align="center">
 
-
-<div align="center">
-
-## 💬 random dev quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:533483,100:e94560&height=120&section=footer"/>
-
-</div>
