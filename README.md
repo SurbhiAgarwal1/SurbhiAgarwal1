@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Surbhi%20Agarwal&fontSize=60&color=0:6C63FF,50:A855F7,100:EC4899&fontColor=fff&animation=twinkling&fontAlignY=65&desc=CS%20·%20AI%2FML%20·%20Systems%20Thinker&descSize=16&descAlignY=85&descColor=cccccc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:6C63FF,50:A855F7,100:EC4899&fontColor=fff&animation=twinkling&fontAlignY=65&desc=CS%20·%20AI%2FML%20·%20Systems%20Thinker&descSize=16&descAlignY=85&descColor=cccccc"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&lines=break+→+trace+→+understand;systems+%3E+assumptions;the+bug+is+never+where+you+think+it+is;exploring+new+domains+%7C+tech+%26+beyond" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+→+trace+→+understand;exploring+new+domains+%7C+tech+%26+beyond" />
 
 </div>
 
@@ -17,12 +17,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SurbhiAgarwal1&style=flat-square&color=A855F7&label=profile+views)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/SurbhiAgarwal1?style=flat-square&color=6C63FF&labelColor=0d1117&label=followers)](https://github.com/SurbhiAgarwal1)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/SurbhiAgarwal1?style=flat-square&color=EC4899&labelColor=0d1117&label=total+stars)
 
 </div>
 
 ---
 
-👋 Hi, I'm Surbhi Agarwal
+<div align="center">
+
+### 👋 Hi, I'm Surbhi Agarwal
+
+</div>
 
 I'm a Computer Science (AI/ML) student who enjoys building practical systems that bring together data, machine learning, and software engineering.
 
@@ -34,14 +40,16 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <div align="center">
 
-## 〔 pokémon-type classification · tech stack 〕
+## ✨ pokémon-type classification · tech stack ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=choose+your+type+carefully...;every+stack+tells+a+story" />
 
 </div>
 
 <br/>
 
 <details open>
-<summary><b>🔥 fire — core languages &nbsp;·&nbsp; <i>the ones I think in</i></b></summary>
+<summary><b>🐉 dragon — core languages &nbsp;·&nbsp; <i>rare, powerful, hard to master</i></b></summary>
 <br/>
 <div align="center">
 
@@ -169,7 +177,11 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 ---
 
-## github stats
+<div align="center">
+
+## 📊 github stats
+
+</div>
 
 <div align="center">
 
@@ -187,7 +199,17 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 ---
 
-## currently
+<div align="center">
+
+## 🏆 achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=SurbhiAgarwal1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
+
+---
+
+## 🔭 currently
 
 ```
 thinking about   →  why systems fail at their boundaries
@@ -199,7 +221,7 @@ building         →  things that shouldn't exist yet
 
 <div align="center">
 
-## philosophy
+## 💭 philosophy
 
 > *Competence is knowing how to fix it.*
 > *Understanding is knowing why it was always going to break.*
@@ -220,6 +242,6 @@ building         →  things that shouldn't exist yet
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer&text=let's%20build%20something%20that%20shouldn't%20exist%20yet&fontSize=14&fontColor=ffffff&fontAlignY=75"/>
 
 </div>
