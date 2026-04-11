@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+→+trace+→+understand;exploring+new+domains+%7C+tech+%26+beyond" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
 
 </div>
 
@@ -40,6 +40,29 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 <div align="center">
 
+## ⚔️ trainer identity
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=EC4899&center=true&vCenter=true&width=600&lines=four+brains+%2B+one+vision+%3D+unstoppable;created+in+a+lab%2C+thinks+beyond+it;Steel+%2F+Psychic+%7C+Pure+Psychic;calculates+everything%2C+assumes+nothing" />
+
+<br/>
+
+| | Pokémon | Type | Signature |
+|:---:|:---:|:---:|:---:|
+| 🥇 | **Metagross** | Steel · Psychic | Four supercomputers fused into one mind |
+| 🥈 | **Mewtwo** | Psychic | Created in a lab. Questions everything. |
+
+<br/>
+
+> *Metagross never makes a move without calculating every outcome.*
+> *Mewtwo never accepts an assumption it didn't verify itself.*
+> **That's the build.**
+
+</div>
+
+---
+
+<div align="center">
+
 ## ✨ pokémon-type classification · tech stack ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=choose+your+type+carefully...;every+stack+tells+a+story" />
@@ -53,14 +76,10 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,bash&theme=dark&perline=6" />
 
 </div>
+<br/>
 </details>
 
 <br/>
@@ -70,16 +89,10 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,tailwind,html,css,figma&theme=dark&perline=8" />
 
 </div>
+<br/>
 </details>
 
 <br/>
@@ -89,11 +102,10 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-![Blender](https://img.shields.io/badge/Blender-F0652A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+<img src="https://skillicons.dev/icons?i=blender,figma,threejs&theme=dark&perline=6" />
 
 </div>
+<br/>
 </details>
 
 <br/>
@@ -103,19 +115,15 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,mongodb,redis,mysql,graphql&theme=dark&perline=9" />
+
+<br/><br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
+<br/>
 </details>
 
 <br/>
@@ -125,18 +133,16 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,git,github,nginx,vercel&theme=dark&perline=8" />
+
+<br/><br/>
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+<br/>
 </details>
 
 <br/>
@@ -146,16 +152,17 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter&theme=dark&perline=6" />
+
+<br/><br/>
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
+<br/>
 </details>
 
 <br/>
@@ -165,7 +172,10 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 <br/>
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-343434?style=for-the-badge&logo=solidity&logoColor=white)
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark&perline=6" />
+
+<br/><br/>
+
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
@@ -173,6 +183,7 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
 </div>
+<br/>
 </details>
 
 ---
@@ -181,15 +192,7 @@ I enjoy understanding systems end-to-end — from data processing and backend lo
 
 ## 📊 github stats
 
-</div>
-
-<div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurbhiAgarwal1&bg_color=00000000&color=A855F7&line=6C63FF&point=EC4899&area=true&hide_border=true&area_color=6C63FF"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SurbhiAgarwal1&show_icons=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=6C63FF&text_color=888888&rank_icon=github" height="155"/>
 &nbsp;
@@ -223,8 +226,7 @@ building         →  things that shouldn't exist yet
 
 ## 💭 philosophy
 
-> *Competence is knowing how to fix it.*
-> *Understanding is knowing why it was always going to break.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=4000&color=A855F7&center=true&vCenter=true&width=700&lines=A+system+that+cannot+explain+its+own+failure+was+never+truly+understood.;Four+brains.+One+conclusion.+Zero+assumptions.;The+most+dangerous+thing+in+engineering+is+confidence+without+proof." />
 
 </div>
 
@@ -242,6 +244,6 @@ building         →  things that shouldn't exist yet
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer&text=let's%20build%20something%20that%20shouldn't%20exist%20yet&fontSize=14&fontColor=ffffff&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer&text=four+brains.+one+vision.+zero+assumptions.&fontSize=14&fontColor=ffffff&fontAlignY=75"/>
 
 </div>
