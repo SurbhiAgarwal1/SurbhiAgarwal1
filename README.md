@@ -24,9 +24,7 @@
 
 ## 🚀 Featured Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=00BFFF&center=true&vCenter=true&width=500&lines=built+to+solve+real+problems;not+just+demos+—+systems" />
 
-</div>
 
 <br/>
 
