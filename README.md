@@ -93,6 +93,8 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <div align="center">
 <div align="center">
 
+<div align="center">
+
 ## ✨ Tech Stacks ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=4a9eff&center=true&vCenter=true&width=500&lines=choose+your+type+carefully...;every+stack+tells+a+story" />
@@ -106,9 +108,15 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <br/>
 <div align="center">
 
-| React | Angular | Next.js | Tailwind | HTML | CSS | Figma | JavaScript | TypeScript |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="45"/> |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 <br/>
@@ -121,20 +129,20 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <br/>
 <div align="center">
 
-| Django | FastAPI | Node.js | Express | PostgreSQL | MongoDB | Redis | MySQL | GraphQL |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=django&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=express&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="45"/> |
-
-| Python | Java | C++ | Bash | Pandas | NumPy |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="45"/> |
-
-</div>
-
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&height=28)
-&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
@@ -148,18 +156,16 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <br/>
 <div align="center">
 
-| Docker | Kubernetes | Linux | AWS | Git | GitHub | Nginx | Vercel |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="45"/> |
-
-</div>
-
-<div align="center">
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
@@ -173,17 +179,10 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <br/>
 <div align="center">
 
-| TensorFlow | PyTorch | Jupyter |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="45"/> |
-
-</div>
-
-<div align="center">
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-&nbsp;
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
 <br/>
@@ -196,14 +195,9 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <br/>
 <div align="center">
 
-| Blender | Solidity | Ethereum |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=blender&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="45"/> | <img src="https://skillicons.dev/icons?i=ethereum&theme=dark" width="45"/> |
-
-</div>
-
-<div align="center">
-
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
 
 </div>
