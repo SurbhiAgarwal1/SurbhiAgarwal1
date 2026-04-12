@@ -68,6 +68,10 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <div align="center">
 
 <div align="center">
+
+
+---
+
 ## ✨ Tech Stacks ✨
 
 <div align="center">
@@ -133,47 +137,12 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-</div>
-<br/>
-</details>
-
----
-
-<details open>
-<summary><b>🔮 psychic &nbsp;·&nbsp; AI & ML &nbsp;·&nbsp; <i>not just models — reasoning about models</i></b></summary>
-<br/>
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-<br/>
-</details>
-
----
-
-<details open>
-<summary><b>🧊 ice &nbsp;·&nbsp; 3D & design &nbsp;·&nbsp; <i>beyond the obvious stack</i></b></summary>
-<br/>
-<div align="center">
-
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-</div>
-<br/>
-</details>
-
+![Prometheus](https://img.shie
 ---
 ### 🤝 Connect with me
 
