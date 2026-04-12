@@ -2,51 +2,25 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:0d1117,30:0d1b2a,60:0a2a5a,100:1a4a8a&fontColor=e8f4ff&animation=twinkling&fontAlignY=65&desc=B.Tech%20Computer%20Science%20(AI%2FML)%20%7C%20Systems%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=13&descAlignY=83&descColor=00BFFF&stroke=4a9eff&strokeWidth=1"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
-
-</div>
 
 <br/>
 
-<div align="center">
-
-**B.Tech Computer Science (AI/ML) &nbsp;|&nbsp; Systems Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; Open Source Contributor**
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-4a70a3387)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/GET%20IN%20TOUCH-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalsurbhi1807@gmail.com)
-
 </div>
 
 ---
-
-<div align="center">
 
 ### 👋 Hi, I'm Surbhi Agarwal
 
-</div>
-
-I'm a Computer Science (AI/ML) student who enjoys building practical systems that bring together data, machine learning, and software engineering.
-
-I'm naturally curious and enjoy exploring how things work — whether it's learning something new in technology or understanding ideas beyond it. That curiosity drives me to keep learning, experimenting, and improving through every project I take on.
-
-I enjoy understanding systems end-to-end — from data processing and backend logic to APIs and user-facing applications — and I'm especially interested in building solutions that are practical, reliable, and genuinely useful.
-
-I work across the full depth of a system — databases, data pipelines, ML models, backend logic, REST APIs, and frontend interfaces. Not just aware of each layer, but comfortable building in all of them. If it's part of how a system comes together, it's something I've explored and enjoy working with.
+- 🎓 **B.Tech Computer Science (AI/ML)** student passionate about building systems that actually work — not just demos.
+- 🔗 I think **end-to-end** — from raw data and model logic to REST APIs, backend services, and the interfaces people use every day.
+- 🧠 **Naturally curious** — whether it's a new framework, an unfamiliar domain, or understanding how something works under the hood, I explore it.
+- 🛠️ Comfortable across the **full depth of a system** — databases, data pipelines, ML models, backend logic, and frontend interfaces. Every layer, not just one.
+- 🎯 I care about building solutions that are **practical, reliable, and genuinely useful** — not just technically impressive.
+- 🌱 Driven by curiosity, shaped by every project — always **learning, experimenting, and improving**.
 
 > from database to model to API to frontend — every layer connected, every decision intentional.
-
-
-
 ---
-
-<div align="center">
 
 ## 🚀 Featured Projects
 
@@ -205,3 +179,11 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 </details>
 
 ---
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-4a70a3387)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalsurbhi1807@gmail.com)
