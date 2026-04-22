@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 Hi, I'm Surbhi Agarwal
+## 👋 Hi, I'm Surbhi Agarwal
 
 - 🎓 **B.Tech Computer Science (AI/ML)** student passionate about building systems that actually work — not just demos.
 - 🔗 I think **end-to-end** — from raw data and model logic to REST APIs, backend services, and the interfaces people use every day.
