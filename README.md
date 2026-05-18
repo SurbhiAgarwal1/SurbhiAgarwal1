@@ -67,9 +67,6 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 
 <div align="center">
 
-
----
-
 ## ✨ Tech Stacks ✨
 
 <div align="center">
