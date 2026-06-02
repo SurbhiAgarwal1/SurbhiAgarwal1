@@ -25,7 +25,6 @@
 ## 🚀 Featured Projects
 
 
-
 <br/>
 
 <table>
