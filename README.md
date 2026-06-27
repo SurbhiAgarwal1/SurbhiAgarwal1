@@ -12,18 +12,18 @@
 
 ## 👋 Hi, I'm Surbhi Agarwal
 
-- 🎓 **B.Tech Computer Science (AI/ML)** student passionate about building systems that actually work  not just demos.
+- 🎓 **B.Tech Computer Science (AI/ML)** student passionate about building systems that actually work — not just demos.
 - 🔗 I think **end-to-end** — from raw data and model logic to REST APIs, backend services, and the interfaces people use every day.
-- 🧠 **Naturally curious** — whether it's a new framework, an unfamiliar domain, or understanding how something works under the hood,I explore it.
+- 🧠 **Naturally curious** — whether it's a new framework, an unfamiliar domain, or understanding how something works under the hood, I explore it.
 - 🛠️ Comfortable across the **full depth of a system** — databases, data pipelines, ML models, backend logic, and frontend interfaces. Every layer, not just one.
-- 🎯 I care about building solutions that are **practical,reliable, and genuinely useful** — not just technically impressive.
-- 🌱 Driven by curiosity, shaped by every project — always **learning,experimenting, and improving**.
+- 🎯 I care about building solutions that are **practical, reliable, and genuinely useful** — not just technically impressive.
+- 🌱 Driven by curiosity, shaped by every project — always **learning, experimenting, and improving**.
 
 > from database to model to API to frontend — every layer connected, every decision intentional.
+
 ---
 
 ## 🚀 Featured Projects
-
 
 <br/>
 
@@ -42,14 +42,15 @@ A **networking education platform** built in TypeScript. Designed to make comple
 </td>
 <td width="50%" valign="top">
 
-### 🚕 [Taxi-Trip-Duration-Analysis](https://github.com/SurbhiAgarwal1/Taxi-Trip-duration-analysis)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-0d1b2a?style=flat-square&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack-1a4a8a?style=flat-square&logoColor=white)
+### 🌐 [ΩRBIT](https://github.com/SurbhiAgarwal1/Orbit-)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty bounds, estimates transparent price bands, and explains pricing behavior. Not just a model — a complete decision-support system with interpretability built in.
+An enterprise-grade **Smart City Operating System** featuring a procedural 3D WebGL urban twin, Hinglish voice dictation AI triage (Gemini 1.5), real-time ward health scoring (Ω-Score), and multi-persona command centers.
 
-`ETA Prediction` `Pricing` `XAI` `ML`
+`Smart City` `3D WebGL` `Generative AI` `GovTech`
 
 </td>
 </tr>
@@ -58,11 +59,6 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 <br/>
 
 ---
-
-<div align="center">
-
-<div align="center">
-<div align="center">
 
 <div align="center">
 
@@ -137,7 +133,12 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+</div>
+
+<br/>
+
 ---
+
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-4a70a3387)
@@ -145,3 +146,5 @@ A **full-stack Mobility Intelligence System** that predicts ETA with uncertainty
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalsurbhi1807@gmail.com)
+
+</div>
