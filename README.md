@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:0d1117,30:0d1b2a,60:0a2a5a,100:1a4a8a&fontColor=e8f4ff&animation=twinkling&fontAlignY=65&desc=B.Tech%20Computer%20Science%20(AI%2FML)%20%7C%20Systems%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=13&descAlignY=83&descColor=00BFFF&stroke=4a9eff&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
 
 <br/>
 
