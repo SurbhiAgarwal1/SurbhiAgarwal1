@@ -16,7 +16,7 @@
 - 🔗 I think **end-to-end** — from raw data and model logic to REST APIs, backend services, and the interfaces people use every day.
 - 🧠 **Naturally curious** — whether it's a new framework, an unfamiliar domain, or understanding how something works under the hood, I explore it.
 - 🛠️ Comfortable across the **full depth of a system** — databases, data pipelines, ML models, backend logic, and frontend interfaces. Every layer, not just one.
-- 🎯 I care about building solutions that are **practical, reliable, and genuinely useful** — not just technically impressive.
+- 🎯 I care about building solutions that are **practical, reliable, and g enuinely useful** — not just technically impressive.
 - 🌱 Driven by curiosity, shaped by every project — always **learning, experimenting, and improving**.
 
 > from database to model to API to frontend — every layer connected, every decision intentional.
