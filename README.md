@@ -13,7 +13,7 @@
 ## 👋 Hi, I'm Surbhi Agarwal
 
 - 🎓 **B.Tech Computer Science (AI/ML)** student passionate about building systems that actually work — not just demos.
-- 🔗 I think **end-to-end** — from raw data and model logic to REST APIs, backend services, and the interfaces people use every day.
+- 🔗 I think **end-to-end** — from raw data and model logic  to REST APIs, backend services, and the interfaces people use every day.
 - 🧠 **Naturally curious** — whether it's a new framework, an unfamiliar domain, or understanding how something works under the hood, I explore it.
 - 🛠️ Comfortable across the **full depth of a system** — databases, data pipelines, ML models, backend logic, and frontend interfaces. Every layer, not just one.
 - 🎯 I care about building solutions that are **practical, reliable, and g enuinely useful** — not just technically impressive.
