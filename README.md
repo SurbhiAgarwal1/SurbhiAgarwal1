@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Surbhi%20Agarwal&fontSize=65&color=0:0d1117,30:0d1b2a,60:0a2a5a,100:1a4a8a&fontColor=e8f4ff&animation=twinkling&fontAlignY=65&desc=B.Tech%20Computer%20Science%20(AI%2FML)%20%7C%20Systems%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=13&descAlignY=83&descColor=00BFFF&stroke=4a9eff&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&lines=Most+bugs+are+reasoning+failures;systems+%3E+assumptions;break+%E2%86%92+trace+%E2%86%92+understand;exploring+new+domains+%7C+tech+%26+beyond" />
 
 <br/>
 
@@ -13,10 +13,10 @@
 ## 👋 Hi, I'm Surbhi Agarwal
 
 - 🎓 **B.Tech Computer Science (AI/ML)** student passionate about building systems that actually work — not just demos.
-- 🔗 I think **end-to-end** — from raw data and model logic  to REST APIs, backend services, and the interfaces people use every day.
+- 🔗 I think **end-to-end** — from raw data and model logic to REST APIs, backend services, and the interfaces people use every day.
 - 🧠 **Naturally curious** — whether it's a new framework, an unfamiliar domain, or understanding how something works under the hood, I explore it.
 - 🛠️ Comfortable across the **full depth of a system** — databases, data pipelines, ML models, backend logic, and frontend interfaces. Every layer, not just one.
-- 🎯 I care about building solutions that are **practical, reliable, and g enuinely useful** — not just technically impressive.
+- 🎯 I care about building solutions that are **practical, reliable, and genuinely useful** — not just technically impressive.
 - 🌱 Driven by curiosity, shaped by every project — always **learning, experimenting, and improving**.
 
 > from database to model to API to frontend — every layer connected, every decision intentional.
@@ -144,6 +144,8 @@ An enterprise-grade **Smart City Operating System** featuring a procedural 3D We
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-4a70a3387)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurbhiAgarwal1)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/surbhip25)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalsurbhi1807@gmail.com)
 
